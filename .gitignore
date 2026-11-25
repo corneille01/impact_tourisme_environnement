@@ -1,0 +1,14 @@
+@"
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+data/raw/
+data/processed/
+"@ | Add-Content .gitignore

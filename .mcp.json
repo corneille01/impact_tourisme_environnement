@@ -1,0 +1,9 @@
+
+{
+  "mcpServers": {
+    "geocontext": {
+      "type": "http",
+      "url": "https://geollm.beta.ign.fr/geocontext/mcp"
+    }
+  }
+}
