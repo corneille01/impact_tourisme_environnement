@@ -1,0 +1,4 @@
+﻿product,gpkg_path,layer_name,pyogrio_list_layers_geometry_type,pyogrio_read_info_geometry_type,gpkg_declared_geometry_type,geometry_column,crs,feature_count
+OCS GE 2025 D046,data/raw/ocsge/extracted/ocsge_2025_D046/OCS-GE_2-0__GPKG_LAMB93_D046_2025-01-01/OCS-GE/1_DONNEES_LIVRAISON_2026-10-00131/OCSGE_2-0_GPKG_LAMB93_D46-2025/OCCUPATION_SOL.gpkg,OCCUPATION_SOL,Unknown,Unknown,GEOMETRY,the_geom,EPSG:2154,299787
+OCS GE 2025 D046,data/raw/ocsge/extracted/ocsge_2025_D046/OCS-GE_2-0__GPKG_LAMB93_D046_2025-01-01/OCS-GE/1_DONNEES_LIVRAISON_2026-10-00131/OCSGE_2-0_GPKG_LAMB93_D46-2025/ZONE_CONSTRUITE.gpkg,ZONE_CONSTRUITE,Unknown,Unknown,GEOMETRY,the_geom,EPSG:2154,26599
+OCS GE Artificialisation 2025 D046,data/raw/ocsge/extracted/ocsge_artificialisation_2025_D046/OCS-GE_2-0_ARTIFICIALISATION_GPKG_LAMB93_D046_2025-01-01/artif_2025_46.gpkg,artif_2025_46,Unknown,Unknown,GEOMETRY,the_geom,EPSG:2154,299787

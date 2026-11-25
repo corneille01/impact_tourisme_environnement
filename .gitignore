@@ -1,4 +1,4 @@
-@"
+@'
 .venv/
 __pycache__/
 *.py[cod]
@@ -9,6 +9,15 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
-data/raw/
-data/processed/
-"@ | Add-Content .gitignore
+
+# Donnees geographiques volumineuses
+*.gpkg
+*.7z
+*.zip
+data/raw/ocsge/archives/
+data/raw/ocsge/extracted/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+'@ | Set-Content ".\lot_tourisme_analyse\.gitignore" -Encoding utf8
